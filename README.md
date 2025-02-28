@@ -1,3 +1,3 @@
-# A Practically Scalable Approach to the Closest Vector Problem\\for Sieving via QAOA with Fixed Angles
+# A Practically Scalable Approach to the Closest Vector Problem for Sieving via QAOA with Fixed Angles
 
 Code coming soon...
