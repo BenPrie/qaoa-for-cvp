@@ -1,0 +1,11 @@
+cirq==1.4.1
+fpylll==0.6.3
+numpy==1.24.3
+qsimcirq==0.21.0
+scipy==1.11.1
+scipy==1.11.3
+scipy==1.10.1
+sympy==1.12.1
+sympy==1.13.1
+sympy==1.12
+sympy==1.11.1
