@@ -96,7 +96,7 @@ class CVP:
 
     def generate_cvp(self, N, l=1, c=1, seed=42) -> None:
         """
-        Reduce a the problem of factorising an integer semi-prime to a CVP on the prime lattice. 
+        Reduce the problem of factorising an integer semi-prime to a CVP on the prime lattice.
 
         :param N: Integer semi-prime (to be factored).
         :param l: Lattice parameter (recommend in {1, 2}).
